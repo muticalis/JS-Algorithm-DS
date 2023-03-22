@@ -1,3 +1,3 @@
 import { userValidation } from "./UserValidation/uservalidation.js";
 
-userValidation("ilk")
+console.log(userValidation("u__hello_world123"))
