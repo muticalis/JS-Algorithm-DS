@@ -3,6 +3,6 @@
 
 
 
+import { longestWord } from "./LongestWord/longestworld.js";
 
-import { longestWord } from "./LongestWord/longestword.js";
 console.log(longestWord("fun&!! time"))
