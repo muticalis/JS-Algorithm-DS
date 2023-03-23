@@ -3,6 +3,9 @@
 
 
 
-import { longestWord } from "./LongestWord/longestworld.js";
+//import { longestWord } from "./LongestWord/longestworld.js";
+//console.log(longestWord("fun&!! time"))
 
-console.log(longestWord("fun&!! time"))
+import { firstFactorial } from "./FirstFactorial/firstfactorial.js";
+
+console.log(firstFactorial(8))
