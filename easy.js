@@ -9,4 +9,4 @@
 //console.log(firstFactorial(8))
 
 import { firstReverse } from "./FirstReverse/reverse.js";
-console.log(firstReverse("merhaba"))
+console.log(firstReverse("Hello World and Coders"))
