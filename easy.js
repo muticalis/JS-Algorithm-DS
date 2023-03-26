@@ -8,5 +8,12 @@
 //import { firstFactorial } from "./FirstFactorial/firstfactorial.js";
 //console.log(firstFactorial(8))
 
-import { firstReverse } from "./FirstReverse/reverse.js";
-console.log(firstReverse("Hello World and Coders"))
+
+
+//import { firstReverse } from "./FirstReverse/reverse.js";
+//console.log(firstReverse("Hello World and Coders"))
+
+
+
+import { findInterSection } from "./FindInterSection/intersection.js";
+console.log(findInterSection(["1, 3, 4, 7, 13", "1, 2, 4, 13, 15"]))
