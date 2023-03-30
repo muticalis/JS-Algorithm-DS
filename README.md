@@ -1,4 +1,5 @@
-Algorithm and Data Stractures with Javascript.
+
+Algorithm questions with Javascript.
 
 
 ##Thank You
