@@ -15,5 +15,9 @@
 
 
 
-import { findInterSection } from "./FindInterSection/intersection.js";
-console.log(findInterSection(["1, 3, 4, 7, 13", "1, 2, 4, 13, 15"]))
+//import { findInterSection } from "./FindInterSection/intersection.js";
+//console.log(findInterSection(["1, 3, 4, 7, 13", "1, 2, 4, 13, 15"]))
+
+
+import { questionmark } from "./QuestionMark/questionmark.js";
+console.log(questionmark())
